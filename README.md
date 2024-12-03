@@ -1,2 +1,0 @@
-# Minijuegos
-Minijuegos del discord.
